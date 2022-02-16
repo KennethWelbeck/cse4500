@@ -44,6 +44,10 @@
           <div>
           <p><?php echo $json_data['education']; ?></p>
          </div>
+         <hr>
+         <div>
+          <p><?php echo $json_data['education2']; ?></p>
+         </div>
         </div>
       </div>
       <hr>
