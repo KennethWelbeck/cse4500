@@ -1,0 +1,22 @@
+{
+  "first-name": "Kenneth",
+  "last-name": "Welbeck",
+  "address": "15618 Iron Spring Lane, Fontana CA 92336",
+  "phone": "(909)201-1283",
+  "email": "kennethnwelbeck@yahoo.com",
+  "introduction": "Hello, my name is Kenneth Welbeck and I'm a Computer Science major. My hobbies are going to the gym and playing in VR. My goals are to find a career in the Virutal Reality industry.",
+  "experience":[
+    {
+      "title":"Security Technician",
+      "employer":"Intecann Solutions",
+      "period":"May 2015 - Present",
+      "description":"Installing high-end security systems for clients throught all of California."
+    },
+    {
+      "title":"Character",
+      "employer":"Disneyland",
+      "period":"Augest 2016 - 2018",
+      "description":"Entertain guests of Disneyland as one of their iconic characters."
+    }
+  ]
+}
