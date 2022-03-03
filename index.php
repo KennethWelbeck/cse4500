@@ -50,6 +50,24 @@
          </div>
         </div>
       </div>
+      <div id="skills" class="content-item">
+        <div class="vertical-center">
+          <h2>Skills</h2>
+          <div>
+          <p><?php echo $json_data['skills']; ?></p>
+         </div>
+         <hr>
+        </div>
+      </div>
+      <div id="Interests" class="content-item">
+        <div class="vertical-center">
+          <h2>Interests</h2>
+          <div>
+          <p><?php echo $json_data['interests']; ?></p>
+         </div>
+         <hr>
+        </div>
+      </div>
       <hr>
       <div id="experience" class="content-item">
         <div class="vertical-center">
