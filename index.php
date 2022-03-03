@@ -21,6 +21,8 @@
           <img src="avatar.png" style="width:160px" alt="">
           <a class="nav-link" href="#about">About</a>
           <a class="nav-link" href="#education">Education</a>
+          <a class="nav-link" href="#skills">Skills</a>
+          <a class="nav-link" href="#interests">Interests</a>
           <a class="nav-link" href="#experience">Experience</a>
         </nav>
       </nav>
