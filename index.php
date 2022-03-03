@@ -59,7 +59,7 @@
          <hr>
         </div>
       </div>
-      <div id="Interests" class="content-item">
+      <div id="interests" class="content-item">
         <div class="vertical-center">
           <h2>Interests</h2>
           <div>
